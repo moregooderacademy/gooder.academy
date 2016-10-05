@@ -1,0 +1,54 @@
+app.coffee
+app.js
+framer/backups/backup-2016-10-05 16.09.09.coffee
+framer/backups/backup-2016-10-05 16.13.09.coffee
+framer/backups/backup-2016-10-05 16.14.09.coffee
+framer/backups/backup-2016-10-05 16.21.01.coffee
+framer/backups/backup-2016-10-05 16.22.01.coffee
+framer/backups/backup-2016-10-05 16.24.01.coffee
+framer/backups/backup-2016-10-05 16.25.02.coffee
+framer/backups/backup-2016-10-05 16.26.01.coffee
+framer/backups/backup-2016-10-05 16.28.01.coffee
+framer/backups/backup-2016-10-05 16.29.01.coffee
+framer/backups/backup-2016-10-05 16.30.01.coffee
+framer/backups/backup-2016-10-05 16.31.01.coffee
+framer/backups/backup-2016-10-05 16.32.01.coffee
+framer/backups/backup-2016-10-05 16.33.01.coffee
+framer/backups/backup-2016-10-05 16.34.01.coffee
+framer/backups/backup-2016-10-05 16.35.01.coffee
+framer/backups/backup-2016-10-05 16.36.01.coffee
+framer/backups/backup-2016-10-05 16.37.01.coffee
+framer/backups/backup-2016-10-05 16.38.01.coffee
+framer/backups/backup-2016-10-05 16.40.01.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/metadata.json
+framer/preview.png
+framer/style.css
+framer/version
+imported/galleryframer@1x/images/Layer-items-C216FF92-9EA7-43CC-94F8-FE71DA9513CA.png
+imported/galleryframer@1x/layers.json
+imported/galleryframer@1x/layers.json.js
+imported/task@1x/images/Layer-Battery_Icon-895269F1-0075-4DD9-BA5B-1E9E081C6F4D.png
+imported/task@1x/images/Layer-navBar-80B55844-54AF-471F-8754-52BFEF5426A0.png
+imported/task@1x/images/Layer-Signal-A187C840-B710-445C-8CE7-51E7E17D2A02.png
+imported/task@1x/images/Layer-Status_Bar__White_-818A6011-9B59-48C2-9D35-ADE164554CA6.png
+imported/task@1x/layers.json
+imported/task@1x/layers.json.js
+index.html
+modules/myModule.coffee
