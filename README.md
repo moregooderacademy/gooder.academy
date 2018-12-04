@@ -1,2 +1,0 @@
-# gooder.academy
-Gooder.Academy
